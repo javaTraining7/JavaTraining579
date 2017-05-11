@@ -1,6 +1,7 @@
 package com.Batch2.Project1;
 
 public class BankTransactions {
+	// this comment is written by malavika
 	
 	private BankCustomer bc[] = new BankCustomer[100];
 	
