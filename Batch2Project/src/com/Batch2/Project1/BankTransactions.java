@@ -28,7 +28,7 @@ public class BankTransactions {
 		if(a==false&& b== false){
 			System.out.println("Registration failed");
 		}else if(a== true&& b == true){
-			bc[counter].setName(name);
+			bc[counter].setCustomerName(name);
 			bc[counter].setTelephone(phone);
 			bc[counter].setUserID(userID);
 			bc[counter].setPassword(password);

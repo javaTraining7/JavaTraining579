@@ -2,15 +2,15 @@ package com.Batch2.Project1;
 
 public class BankCustomer {
 	
-	private String name;
+	private String customerName;
 	private String userID;
 	private String password;
 	private long telephone;
 	private int balance;
-	public String getName() {
+	public String getCustomerName() {
 		return name;
 	}
-	public void setName(String name) {
+	public void setCustomerName(String name) {
 		this.name = name;
 	}
 	public String getUserID() {
