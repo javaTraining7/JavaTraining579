@@ -1,7 +1,6 @@
 package com.Batch2.Project1;
 
 public class BankCustomer {
-	// this comment is written by malavika
 	
 	private String customerName;
 	private String userID;
